@@ -189,7 +189,7 @@
 <table>
     <tr>
         <td align="center"> 
-              https://user-images.githubusercontent.com/53232881/219396086-151a3a8f-ab54-45d6-a346-2b6ded9ec869.gif
+              <img src="https://user-images.githubusercontent.com/53232881/219396086-151a3a8f-ab54-45d6-a346-2b6ded9ec869.gif" />
         </td>
         <td align="center">  <br> <br>회원 가입<br><br> ID 닉네임 중복 검사, 비밀번호 이메일 유효성 검사<br/><br/></td>
     </tr>
