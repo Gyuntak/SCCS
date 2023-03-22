@@ -220,7 +220,7 @@
 </tr>
 <tr>
         <td align="center">
-              <img src="https://user-images.githubusercontent.com/53232881/219398140-300ed40b-45c6-47b4-b156-bddbf831536b.gif)" />
+              <img src="https://user-images.githubusercontent.com/53232881/219398140-300ed40b-45c6-47b4-b156-bddbf831536b.gif" />
         </td>
         <td align="center">  <br> <br>메인페이지 검색<br><br>조건별 검색기능, 실시간 방 목록 조회(Socket통신)<br/><br/></td>
 </tr>
