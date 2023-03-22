@@ -100,9 +100,9 @@
 |          | Stompjs         | Stompjs            | 2.3.3     |
 |          | IDE             | Visual Studio Code | 1.75.1    |
 | Server   | 서버            | AWS EC2            | \-        |
-|          | 플랫폼          | Ubuntu             | ?         |
-|          | CI/CD           | Docker             | ?         |
-|          |                 | Jenkins            | ?         |
+|          | 플랫폼          | Ubuntu\AWS Liunx   | 20.04 , AWS Linux2|
+|          | CI/CD           | Docker             | 20.10.17  |
+|          |                 | Jenkins            | jenkins/jenkins:lts|
 
 </details>
 </div>
