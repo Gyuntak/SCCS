@@ -113,9 +113,7 @@
 
 ## 🗂️ 시스템 아키텍처
 
-|   시스템 구성   |
-| :-------------: |
-| 실코체스 로그인 |
+<img width="1048" alt="Untitled (1)" src="https://github.com/chancehee/SCCS/assets/59447235/612ab0aa-59d6-4b59-955a-8a693d5323bc">
 
 <br />
 
