@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=1364D1&height=200&section=header&text=SCCS&fontSize=60" />
 </p>
-![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/53232881/219299375-cea4f482-af58-4dfa-aa9e-11b4fe5bcd57.png)
+<img src="https://user-images.githubusercontent.com/53232881/219299375-cea4f482-af58-4dfa-aa9e-11b4fe5bcd57.png">
 
 ## 목차
 
@@ -76,33 +76,33 @@
   <br/>
 <details><summary> <b> 상세 기술스택 및 버전</b> </summary>
 
-| 구분     | 기술스택        | 상세내용           | 버전      |
-| -------- | --------------- | ------------------ | --------- |
-| 공통     | 형상관리        | Gitlab             | \-        |
-|          | 이슈관리        | Jira               | \-        |
-|          | 커뮤니케이션    | Mattermost, Notion | \-        |
-| BackEnd  | DB              | MySQL              | 8.0.31    |
-|          |                 | Mybatis            | 2.3.0     |
-|          | Java            | Zulu               | 1.8.0_202 |
-|          | Spring          | Spring             | 5.3.24    |
-|          |                 | Spring Boot        | 2.7.8     |
-|          | IDE             | IntelliJ           | 2022.3.1  |
-|          | Cloud Storage   | AWS S3             | \-        |
-|          | Build           | Gradle             | 7.6       |
-|          | API Docs        | Postman            |           |
-| FrontEnd | HTML5           |                    | \-        |
-|          | CSS3            |                    | \-        |
-|          | JavaScript(ES6) |                    | \-        |
-|          | React           | React              | 18.2.0    |
-|          | Node.js         | npm                | 16.18.0   |
-|          | Openvidu        | Openvidu           | 2.25.0    |
-|          | Sockjs          | Sockjs             | 1.6.1     |
-|          | Stompjs         | Stompjs            | 2.3.3     |
-|          | IDE             | Visual Studio Code | 1.75.1    |
-| Server   | 서버            | AWS EC2            | \-        |
-|          | 플랫폼          | Ubuntu\AWS Liunx   | 20.04 , AWS Linux2|
-|          | CI/CD           | Docker             | 20.10.17  |
-|          |                 | Jenkins            | jenkins/jenkins:lts|
+| 구분     | 기술스택        | 상세내용           | 버전                |
+| -------- | --------------- | ------------------ | ------------------- |
+| 공통     | 형상관리        | Gitlab             | \-                  |
+|          | 이슈관리        | Jira               | \-                  |
+|          | 커뮤니케이션    | Mattermost, Notion | \-                  |
+| BackEnd  | DB              | MySQL              | 8.0.31              |
+|          |                 | Mybatis            | 2.3.0               |
+|          | Java            | Zulu               | 1.8.0_202           |
+|          | Spring          | Spring             | 5.3.24              |
+|          |                 | Spring Boot        | 2.7.8               |
+|          | IDE             | IntelliJ           | 2022.3.1            |
+|          | Cloud Storage   | AWS S3             | \-                  |
+|          | Build           | Gradle             | 7.6                 |
+|          | API Docs        | Postman            |                     |
+| FrontEnd | HTML5           |                    | \-                  |
+|          | CSS3            |                    | \-                  |
+|          | JavaScript(ES6) |                    | \-                  |
+|          | React           | React              | 18.2.0              |
+|          | Node.js         | npm                | 16.18.0             |
+|          | Openvidu        | Openvidu           | 2.25.0              |
+|          | Sockjs          | Sockjs             | 1.6.1               |
+|          | Stompjs         | Stompjs            | 2.3.3               |
+|          | IDE             | Visual Studio Code | 1.75.1              |
+| Server   | 서버            | AWS EC2            | \-                  |
+|          | 플랫폼          | Ubuntu\AWS Liunx   | 20.04 , AWS Linux2  |
+|          | CI/CD           | Docker             | 20.10.17            |
+|          |                 | Jenkins            | jenkins/jenkins:lts |
 
 </details>
 </div>
